@@ -1,0 +1,6 @@
+A tokenizer for Twitter-based text. Keeps @mentions and #hastags intact. Written by Amaç Herdağdelen 2011.
+
+The code is licensed under the Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0.html
+
+For emoticon and URL recognition, this code uses parts of TweetMotif (https://github.com/brendano/tweetmotif). TweetMotif is also licensed under the Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0.html
+
